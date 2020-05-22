@@ -1,0 +1,81 @@
+.header {
+  background-color: black;
+  margin-bottom: 42px;
+}
+
+.container {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.name {
+  font-size: 25px;
+  text-decoration: none;
+  color: #E1942A;
+  padding-top: 5px;
+}
+
+nav {
+  margin: 10px auto;
+}
+
+.nav__item {
+  display: inline;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: white;
+  padding-left: 30px;
+  padding-right: 10px;
+}
+
+.nav__link:hover {
+  color: #E1942A;
+}
+
+.nav__link--active {
+  color: #E1942A;
+}
+
+.nav__link--general {
+  background: url('../heartbeatorange.png') 2px no-repeat;
+}
+
+.nav__link--services {
+  background: url('../GeneralPage/Color\ Overlay.png') 2px no-repeat;
+}
+.nav__link--services:hover {
+  background: url('../GeneralPage/service_icon-orange.png') 2px no-repeat;
+}
+
+.nav__link--reviews {
+  background: url('../GeneralPage/feed_icon.png') 2px no-repeat;
+}
+.nav__link--reviews:hover {
+  background: url('../GeneralPage/feed_icon_orange.png') 2px no-repeat;
+}
+
+.contacts__number,
+.contacts__hours {
+  display: block;
+}
+
+.contacts__number {
+  color: white;
+  text-decoration: none;
+}
+
+.contacts__hours {
+  color: #E1942A;
+  text-decoration: underline;
+}
+
+.contacts__hours:hover {
+  color: white;
+}

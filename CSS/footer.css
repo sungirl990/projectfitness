@@ -1,0 +1,20 @@
+footer {
+    background-color: black;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+}
+.copyright,
+.socials {
+    color: white;
+}
+
+.social__list {
+    display: inline-block;
+}
+.social__icon {
+    height: 20px;
+    width: 20px;
+}
