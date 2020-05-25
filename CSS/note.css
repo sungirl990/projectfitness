@@ -1,0 +1,23 @@
+.note {
+    background-image: url('../ReviewsPage/Group1.png');
+    background-color: black;
+    height: auto;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.note__container p {   
+    color: white;
+    padding: 20px 200px;
+}
+
+ .note__link {
+    color: #E1942A;
+    text-decoration: none;
+    font-weight: bold;
+ }
+
+
+
+

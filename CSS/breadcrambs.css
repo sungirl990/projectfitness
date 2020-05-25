@@ -1,0 +1,37 @@
+
+.breadcrumbs {
+    margin-top: 47px;
+    margin-bottom: 20px;
+    margin-left: 110px;
+}
+
+.breadcrumbs__list,
+.breadcrumbs__item {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.breadcrumbs__link {
+    color: #E1942A;
+    font-style: italic;
+    font-size: 14px;
+
+}
+.breadcrumbs__item:after {
+    content: "/";
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/* .breadcrumbs:last-child {
+    display: none;
+} */
+
+.breadcrumbs__active--link {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+
