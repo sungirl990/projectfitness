@@ -47,21 +47,25 @@ nav {
 }
 
 .nav__link--general {
-  background: url('../heartbeatorange.png') 2px no-repeat;
+  background: url('../img/heartbeat.png') 2px no-repeat;
+}
+
+.nav__link--general:hover {
+  background: url('../img/heartbeatorange.png') 2px no-repeat;
 }
 
 .nav__link--services {
-  background: url('../GeneralPage/Color\ Overlay.png') 2px no-repeat;
+  background: url('../img/starwhite.png') 2px no-repeat;
 }
 .nav__link--services:hover {
-  background: url('../GeneralPage/service_icon-orange.png') 2px no-repeat;
+  background: url('../img/starorange.png') 2px no-repeat;
 }
 
 .nav__link--reviews {
-  background: url('../GeneralPage/feed_icon.png') 2px no-repeat;
+  background: url('../img/dumbbell_white.png') 2px no-repeat;
 }
 .nav__link--reviews:hover {
-  background: url('../GeneralPage/feed_icon_orange.png') 2px no-repeat;
+  background: url('../img/dumbbell_orange.png') 2px no-repeat;
 }
 
 .contacts__number,

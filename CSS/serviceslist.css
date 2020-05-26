@@ -1,0 +1,15 @@
+.services {
+    margin: 40px 100px;
+
+}
+.services__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.services__item {
+    flex: 1;
+    margin-right: 40px;
+}
+
