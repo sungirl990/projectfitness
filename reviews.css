@@ -1,66 +1,11 @@
+@import url("./CSS/fonts.css");
 @import url("./CSS/body.css");
 @import url("./CSS/header.css");
-@import url("./CSS/pagination.css");
-@import url("./CSS/footer.css");
-@import url('./CSS/form.css');
-@import url('./CSS/note.css');
 @import url('./CSS/breadcrambs.css');
 @import url('./CSS/reviews.css');
-@font-face {
-    font-family: 'gora';
-    src: url("./fonts/fontsf/gora-free-webfont.woff") format('woff');
-    src: url("./fonts/fontsf/gora-free-webfont.woff2") format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'opensansbold';
-    src: url("./fonts/fontsf/opensans-bold-webfont.woff") format('woff');
-    src: url("./fonts/fontsf/opensans-bold-webfont.woff2") format('woff2');
-    font-weight: bold;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'opensansextrabold';
-    src: url("./fonts/fontsf/opensans-extrabold-webfont.woff") format('woff');
-    src: url("./fonts/fontsf/opensans-extrabold-webfont.woff2") format('woff2');
-    font-weight: bolder;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'opensanslight';
-    src: url("./fonts/fontsf/opensans-light-webfont.woff") format('woff');
-    src: url("./fonts/fontsf/opensans-light-webfont.woff2") format('woff2');
-    font-weight: lighter;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'opensansitalic';
-    src: url("./fonts/fontsf/opensans-lightitalic-webfont.woff") format('woff');
-    src: url("./fonts/fontsf/opensans-lightitalic-webfont.woff2") format('woff2');
-    font-weight: normal;
-    font-style: italic;
-}
-@font-face {
-    font-family: 'opensans';
-    src: url("./fonts/fontsf/opensans-regular-webfont.woff") format('woff');
-    src: url("./fonts/fontsf/opensans-regular-webfont.woff2") format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'robotobold';
-    src: url("./fonts/fontsf/roboto-bold-webfont.woff")format('woff');
-    src: url("./fonts/fontsf/roboto-bold-webfont.woff2") format('woff2');
-    font-weight: bold;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'robotolight';
-    src: url("./fonts/fontsf/roboto-light-webfont.woff") format('woff');
-    src: url("./fonts/fontsf/roboto-light-webfont.woff2") format('woff2');
-    font-weight: lighter;
-    font-style: normal;
-}
+@import url('./CSS/note.css');
+@import url('./CSS/form.css');
+@import url("./CSS/pagination.css");
+@import url("./CSS/footer.css");
 
 

@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'brand';
+    src: url("../fonts/Gora-Free.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}@font-face {
+    font-family: 'gora';
+    src: url("../fonts/Gorafonts/Gora-Free.woff") format('woff');
+    src: url("../fonts/Gorafonts/Gora-Free.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensansbold';
+    src: url("./fonts/fontsf/opensans-bold-webfont.woff") format('woff');
+    src: url("./fonts/fontsf/opensans-bold-webfont.woff2") format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensansextrabold';
+    src: url("./fonts/fontsf/opensans-extrabold-webfont.woff") format('woff');
+    src: url("./fonts/fontsf/opensans-extrabold-webfont.woff2") format('woff2');
+    font-weight: bolder;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensanslight';
+    src: url("./fonts/fontsf/opensans-light-webfont.woff") format('woff');
+    src: url("./fonts/fontsf/opensans-light-webfont.woff2") format('woff2');
+    font-weight: lighter;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensansitalic';
+    src: url("./fonts/fontsf/opensans-lightitalic-webfont.woff") format('woff');
+    src: url("./fonts/fontsf/opensans-lightitalic-webfont.woff2") format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'opensans';
+    src: url("../fonts/Opensansfont/OpenSans-Regular.woff") format('woff');
+    src: url("../fonts/Opensansfont/OpenSans-Regular.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotobold';
+    src: url("../fonts/Robotofont/Roboto-Bold.woff") format('woff');
+    src: url("../fonts/Robotofont/Roboto-Bold.woff2") format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+

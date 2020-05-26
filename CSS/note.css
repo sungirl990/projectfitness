@@ -10,6 +10,9 @@
 .note__container p {   
     color: white;
     padding: 20px 200px;
+    font-family: "roboto";
+    font-weight: normal;
+    font-style: normal;
 }
 
  .note__link {

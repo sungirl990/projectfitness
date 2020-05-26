@@ -36,4 +36,8 @@ h1 {
 .review__date {
     opacity: 0.4;
 }
-
+.reviews__text {
+    font-family: "opensans";
+    font-style: normal;
+    font-weight: normal;
+}
